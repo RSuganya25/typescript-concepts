@@ -69,3 +69,4 @@ This project demonstrates advanced TypeScript concepts including Enums, Classes,
 - Exception throwing and handling demonstrated in async functions
 - ESLint integrated with TypeScript support and configured rules
 - Jest unit tests added to validate core functions and classes
+
